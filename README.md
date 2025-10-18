@@ -121,6 +121,10 @@ urlpatterns = [
 
 ```
 ## OUTPUT:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c505ac2f-3f05-4190-9f72-4863ddc920a1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/86159b68-6325-45bb-a2d8-19e7d1a68ea1" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/25afbf88-503c-4e80-a8a6-61a997a4e16f" />
+<img width="828" height="404" alt="image" src="https://github.com/user-attachments/assets/65edcf44-c969-4f4e-a72e-dbce656a82c5" />
 
 
 ## RESULT:
